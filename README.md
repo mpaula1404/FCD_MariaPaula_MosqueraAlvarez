@@ -1,2 +1,2 @@
 # FCD_MariaPaula_MosqueraAlvarez
-Entrega trabajos fundamentos de ciencia de datos
+Maria Paula Mosquera Álvarez  -  mpaula.mosquera@udea.edu.co
